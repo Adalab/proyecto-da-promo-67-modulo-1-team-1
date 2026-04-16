@@ -2,11 +2,11 @@
 
 # Proyecto Mini Classic Games
 
-**Mini Classic Games** es una colección de tres juegos clásicos desarrollados en formato **Jupyter Notebook (.ipynb)** por el equipo **...**. Este proyecto busca ofrecer una experiencia de entretenimiento sencilla, dinámica e interactiva para un público amplio.
+**Mini Classic Games** es una colección de tres juegos clásicos desarrollados en formato **Jupyter Notebook (.ipynb)** por el equipo **STBR Data**. Este proyecto busca ofrecer una experiencia de entretenimiento sencilla, dinámica e interactiva para un público amplio.
 
 ## 🚀 Sobre el Proyecto
 - **Formato:** Entrega de 3 cuadernos interactivos independientes para facilitar la ejecución y visualización del código.
-- **Metodología:** Desarrollo bajo el marco de trabajo **Scrum** por el equipo **...** (4 desarrolladoras), asegurando un producto funcional, testeado y documentado.
+- **Metodología:** Desarrollo bajo el marco de trabajo **Scrum** por el equipo **STBR Data** (4 desarrolladoras), asegurando un producto funcional, testeado y documentado.
 - **Tecnología:** Python 3, optimizado para su ejecución en entornos de desarrollo interactivos como Jupyter Notebook y VS Code.
 
 ---
