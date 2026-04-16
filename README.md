@@ -31,7 +31,7 @@ El juego finaliza automáticamente cuando se cumple una de estas condiciones.
     - O si el juego continúa
 
 Para mejorar la experiencia del usuario: hemos eliminado espacios innecesarios ```strip()``` e ignoramos mayúsculas y minúsculas ```lower()```. 
-También hemos solucionado que se escriba la palabra sin tilde, mediante una función def.
+También hemos solucionado que se escriba la palabra sin tilde, mediante una función '''def.
 
 ### Decisiones de diseño
 Durante el desarrollo del proyecto se tomaron varias decisiones para simplificar la lógica del juego y hacerlo más funcional.
@@ -40,7 +40,7 @@ En primer lugar, aunque inicialmente se intentó controlar el flujo del juego me
 
 También se decidió trabajar con un diccionario de preguntas y respuestas, ya que esta estructura facilitaba asociar cada pregunta con su única respuesta correcta. Posteriormente, ese diccionario se transformó en una lista para poder mezclar las preguntas de forma aleatoria antes de empezar la partida.
 
-Por otro lado, se incorporó una limpieza básica de textos en las respuestas del usuario, utilizando métodos como ```strip()``` y ```lower()``` y una función def, con el objetivo de hacer la comparación más flexible y evitar errores por mayúsculas, espacios innecesarios y tildes.
+Por otro lado, se incorporó una limpieza básica de textos en las respuestas del usuario, utilizando métodos como ```strip()``` y ```lower()``` y una función '''def, con el objetivo de hacer la comparación más flexible y evitar errores por mayúsculas, espacios innecesarios y tildes.
 
 Además, se exploró la posibilidad de diseñar una interfaz muy sencilla en Jupyter Notebook para hacer el juego más visual e intuitivo. Aunque la lógica principal del proyecto está desarrollada en Python, esta idea surge como una línea de mejora para acercar el juego a una experiencia más amigable para la persona usuaria.
 
