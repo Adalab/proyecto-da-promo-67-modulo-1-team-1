@@ -1,8 +1,8 @@
 # PROMO-67---EQUIPO-1---PROYECTO-MODULO-1
 
-# Proyecto Mini Classic Games
+# Proyecto PlayDent
 
-**Mini Classic Games** es una colección de tres juegos clásicos desarrollados en formato **Jupyter Notebook (.ipynb)** por el equipo **STBR Data**. Este proyecto busca ofrecer una experiencia de entretenimiento sencilla, dinámica e interactiva para un público amplio.
+**PlayDent** es una colección de tres juegos clásicos desarrollados en formato **Jupyter Notebook (.ipynb)** por el equipo **STBR Data**. Este proyecto busca ofrecer una experiencia de entretenimiento sencilla, dinámica e interactiva para un público amplio.
 
 ## 🚀 Sobre el Proyecto
 - **Formato:** Entrega de 3 cuadernos interactivos independientes para facilitar la ejecución y visualización del código.
